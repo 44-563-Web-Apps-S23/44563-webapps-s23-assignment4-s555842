@@ -1,3 +1,4 @@
 # WebApps-S23-Assignment-4
-A practice assignment for HTML with CSS
-My Pages are Hosted at: <https://44-563-web-apps-s23.github.io/44563-webapps-23-assignment4-s555842/play.html>
+A practice assignment for HTML with CSS  
+
+My Pages are Hosted at: <https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment4-s555842/play.html>
